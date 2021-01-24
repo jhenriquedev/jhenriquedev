@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+<img align="right" width="400" height="400" src="https://github.com/jhenriquedev/jhenriquedev/blob/main/DippingCode%20(1).png">
  
 # Welcome!
  
