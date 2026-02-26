@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a73e8&height=220&section=header&text=Jonatas%20Henrique&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Tech%20Entrepreneur%20%7C%20Solutions%20Architect%20%7C%20AI%20Engineer&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a73e8&height=220&section=header&text=Jonatas%20Santos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Tech%20Entrepreneur%20%7C%20Solutions%20Architect%20%7C%20AI%20Engineer&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -124,7 +124,12 @@ const currentFocus = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jhenriquedev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=1a73e8&text_color=c9d1d9&ring_color=1a73e8" />
+<img src="https://img.shields.io/badge/Total_Contributions-67.500+-1a73e8?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Experience-+14_years-0d1117?style=for-the-badge&logo=codereview&logoColor=white" />
+<img src="https://img.shields.io/badge/Repositories-70+-161b22?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/><br/>
+
 <img height="170" src="https://streak-stats.demolab.com?user=jhenriquedev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1A73E8&fire=1A73E8&currStreakLabel=1A73E8" />
 
 <br/><br/>
