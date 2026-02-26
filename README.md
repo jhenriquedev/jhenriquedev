@@ -134,7 +134,7 @@ const currentFocus = {
 
 <br/><br/>
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhenriquedev&theme=github_dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenriquedev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
