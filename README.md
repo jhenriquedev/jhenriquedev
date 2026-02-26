@@ -171,6 +171,78 @@ Empresas e projetos onde entreguei soluções em produção:
 
 ---
 
+## `> engineering_principles`
+
+<div align="center">
+
+![SOLID](https://img.shields.io/badge/SOLID-0D1117?style=for-the-badge&logo=checkmarx&logoColor=1a73e8)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-0D1117?style=for-the-badge&logo=blueprintjs&logoColor=1a73e8)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0D1117?style=for-the-badge&logo=archlinux&logoColor=1a73e8)
+![Clean Code](https://img.shields.io/badge/Clean_Code-0D1117?style=for-the-badge&logo=codereview&logoColor=1a73e8)
+![TDD](https://img.shields.io/badge/TDD-0D1117?style=for-the-badge&logo=testinglibrary&logoColor=1a73e8)
+![DDD](https://img.shields.io/badge/DDD-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=1a73e8)
+
+</div>
+
+<details>
+<summary><b>🧱 SOLID Principles</b></summary>
+<br/>
+
+| Princípio | Descrição |
+|:--|:--|
+| **S** — Single Responsibility | Cada classe ou módulo deve ter uma única razão para mudar. Responsabilidades separadas = código mais fácil de manter e testar. |
+| **O** — Open/Closed | Entidades devem estar abertas para extensão, mas fechadas para modificação. Novas features sem quebrar o que já funciona. |
+| **L** — Liskov Substitution | Subclasses devem poder substituir suas classes base sem alterar o comportamento esperado do sistema. |
+| **I** — Interface Segregation | Interfaces específicas são melhores que uma interface genérica. Nenhum cliente deve depender de métodos que não utiliza. |
+| **D** — Dependency Inversion | Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações. |
+
+</details>
+
+<details>
+<summary><b>🎨 Design Patterns</b></summary>
+<br/>
+
+| Categoria | Patterns | Quando utilizo |
+|:--|:--|:--|
+| **Creational** | Singleton, Factory Method, Abstract Factory, Builder | Gerenciamento de instâncias, criação de objetos complexos e injeção de dependências em APIs e microsserviços |
+| **Structural** | Adapter, Facade, Decorator, Proxy | Integração com APIs externas (WebCash, Pontaltech), camadas de abstração e extensão de comportamento |
+| **Behavioral** | Observer, Strategy, Command, Chain of Responsibility, Mediator | Eventos em tempo real, regras de negócio dinâmicas, filas de processamento e workflows de automação |
+
+</details>
+
+<details>
+<summary><b>🏛️ Architectural Patterns</b></summary>
+<br/>
+
+| Padrão | Descrição | Aplicação |
+|:--|:--|:--|
+| **Clean Architecture** | Separação em camadas (Entities → Use Cases → Interface Adapters → Frameworks) com regra de dependência de fora pra dentro. O domínio nunca depende de infraestrutura. | Backend de APIs financeiras, microsserviços com regras de negócio complexas |
+| **Onion Architecture** | Similar ao Clean, com camadas concêntricas onde o core (Domain Model) fica no centro, cercado por Domain Services, Application Services e Infrastructure. | Sistemas .NET com domínio rico, plataformas com múltiplos adaptadores de saída |
+| **MVVM** | Model-View-ViewModel — separação clara entre UI, lógica de apresentação e dados. Two-way data binding entre View e ViewModel. | Apps Flutter e Angular, interfaces reativas com estado complexo |
+| **MVC** | Model-View-Controller — o controller recebe input, manipula o model e atualiza a view. Fluxo unidirecional clássico. | APIs REST em Node.js e .NET, aplicações web tradicionais |
+| **Hexagonal (Ports & Adapters)** | O core da aplicação se comunica com o mundo externo através de ports (interfaces) e adapters (implementações). Facilita troca de dependências externas. | Integrações bancárias, sistemas que conectam com múltiplos providers |
+| **Event-Driven** | Componentes se comunicam por eventos assíncronos. Desacoplamento total entre produtor e consumidor. | Filas SQS/SNS, webhooks, processamento assíncrono de contratos e notificações |
+| **Microservices** | Serviços independentes, deploy autônomo, comunicação via API/mensageria. Cada serviço é dono do seu domínio e dados. | Ecossistema fintech com serviços de crédito, notificação, onboarding e relatórios |
+
+</details>
+
+<details>
+<summary><b>✅ Práticas & Metodologias</b></summary>
+<br/>
+
+| Prática | Descrição |
+|:--|:--|
+| **Clean Code** | Código legível, nomes expressivos, funções curtas, sem comentários desnecessários — o código é a documentação. |
+| **TDD** | Test-Driven Development — escrever o teste antes da implementação. Red → Green → Refactor. |
+| **DDD** | Domain-Driven Design — modelagem guiada pelo domínio de negócio com Bounded Contexts, Aggregates e Ubiquitous Language. |
+| **CI/CD** | Integração e entrega contínua — pipelines automatizados com testes, build e deploy a cada push. |
+| **Code Review** | Revisão de código como prática de qualidade, compartilhamento de conhecimento e padronização. |
+| **12-Factor App** | Metodologia para construir apps SaaS modernos: config por env vars, stateless processes, logs como event streams, etc. |
+
+</details>
+
+---
+
 ## `> current_build`
 
 ```javascript
@@ -198,7 +270,8 @@ const currentFocus = {
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenriquedev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&langs_count=8" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhenriquedev&theme=github_dark" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhenriquedev&theme=github_dark" />
 
 </div>
 
