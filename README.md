@@ -87,6 +87,68 @@ Minha abordagem: entender o problema de negócio primeiro, desenhar a arquitetur
 
 ---
 
+## `> cloud_expertise`
+
+<div align="center">
+
+**Amazon Web Services (AWS)**
+
+![AWS WAF](https://img.shields.io/badge/WAF-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF4F8B?style=flat-square&logo=amazonsimpleemailservice&logoColor=white)
+![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazonwebservices&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white)
+![Rekognition](https://img.shields.io/badge/Rekognition-5294CF?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Bedrock_AI-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazoniam&logoColor=white)
+![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-DD344C?style=flat-square&logo=amazonwebservices&logoColor=white)
+![CodePipeline](https://img.shields.io/badge/CodePipeline-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Elastic Beanstalk](https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=flat-square&logo=amazonwebservices&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**Firebase**
+
+![Firebase Auth](https://img.shields.io/badge/Authentication-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Realtime DB](https://img.shields.io/badge/Realtime_DB-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Cloud Messaging](https://img.shields.io/badge/Cloud_Messaging-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Crashlytics](https://img.shields.io/badge/Crashlytics-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Remote Config](https://img.shields.io/badge/Remote_Config-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Analytics](https://img.shields.io/badge/Analytics-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Hosting](https://img.shields.io/badge/Hosting-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Storage](https://img.shields.io/badge/Storage-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![App Distribution](https://img.shields.io/badge/App_Distribution-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Performance](https://img.shields.io/badge/Performance-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+
+**Supabase & Others**
+
+![Supabase Auth](https://img.shields.io/badge/Supabase_Auth-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Supabase DB](https://img.shields.io/badge/Supabase_DB-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Supabase Storage](https://img.shields.io/badge/Supabase_Storage-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Supabase Edge Functions](https://img.shields.io/badge/Edge_Functions-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Supabase Realtime](https://img.shields.io/badge/Realtime-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0078D4?style=flat-square&logo=azurefunctions&logoColor=white)
+![Deno Deploy](https://img.shields.io/badge/Deno_Deploy-000000?style=flat-square&logo=deno&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+---
+
 ## `> trusted_by`
 
 <div align="center">
@@ -95,13 +157,15 @@ Empresas e projetos onde entreguei soluções em produção:
 
 <br/>
 
-![Hospital Albert Einstein](https://img.shields.io/badge/Hospital_Albert_Einstein-005BAA?style=for-the-badge&logoColor=white)
-![Banco Genial](https://img.shields.io/badge/Banco_Genial-00C26E?style=for-the-badge&logoColor=white)
-![Mottu](https://img.shields.io/badge/Mottu-FF6600?style=for-the-badge&logoColor=white)
-![Combate à Fraude](https://img.shields.io/badge/Combate_à_Fraude-1A1A2E?style=for-the-badge&logoColor=white)
-![MeuCashCard](https://img.shields.io/badge/MeuCashCard-6C3CE1?style=for-the-badge&logoColor=white)
-![PoloCred](https://img.shields.io/badge/PoloCred-1A73E8?style=for-the-badge&logoColor=white)
-![DippingCode](https://img.shields.io/badge/DippingCode-2D2D2D?style=for-the-badge&logoColor=white)
+[![Hospital Albert Einstein](https://img.shields.io/badge/Hospital_Albert_Einstein-005BAA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5di0yaDJ2MmptNC00SDlWOGg2djR6Ii8+PC9zdmc+&logoColor=white)](https://www.einstein.br)
+[![Banco Genial](https://img.shields.io/badge/Banco_Genial-00C26E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggNHptLjMxLTguODZjLTEuNzctLjQ1LTIuMzQtLjk0LTIuMzQtMS42NyAwLS44NC43OS0xLjQzIDIuMS0xLjQzIDEuMzggMCAxLjkuNjYgMS45NCAxLjY0aDEuNzFjLS4wNS0xLjM0LS44Ny0yLjU3LTIuNDktMi45N1YzaC0ydjEuNjljLTEuNTEuMzItMi43MiAxLjMtMi43MiAyLjgxIDAgMS43OSAxLjQ5IDIuNjkgMy42NiAzLjIxIDEuOTUuNDYgMi4zNCAxLjE1IDIuMzQgMS44NyAwIC41My0uMzkgMS4zOS0yLjEgMS4zOS0xLjYgMC0yLjIzLS43Mi0yLjMyLTEuNjRINy45MWMuMSAxLjcgMS4zNiAyLjY2IDIuNzggMi45OFYyMWgydi0xLjY3YzEuNTItLjI5IDIuNzItMS4xNiAyLjcyLTIuNzQgMC0yLjItMS43LTIuOTQtMy40Ni0zLjQ1eiIvPjwvc3ZnPg==&logoColor=white)](https://www.genialinvestimentos.com.br)
+[![Burger King](https://img.shields.io/badge/Burger_King-D62300?style=for-the-badge&logo=burgerking&logoColor=white)](https://www.burgerking.com.br)
+[![Popeyes](https://img.shields.io/badge/Popeyes-F37321?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4wNiAxLjc3TDguNjQgMi4xYy0uMzguMDEtLjY4LjMzLS42Ny43MWwuMDIuNThjLjAxLjM4LjMzLjY4LjcxLjY3bDQuNjUtLjE2LS4wMi43LTQuOTUuMTdjLS4zOC4wMS0uNjguMzMtLjY3LjcxbC4wMi41OGMuMDEuMzguMzMuNjguNzEuNjdsNC42NS0uMTYtLjAyLjctNC45NS4xN2MtLjM4LjAxLS42OC4zMy0uNjcuNzFsLjAyLjU4Yy4wMS4zOC4zMy42OC43MS42N2wxMC0uMzRjLjM4LS4wMS42OC0uMzMuNjctLjcxTDE4Ljc3IDIuNDhjLS4wMS0uMzgtLjMzLS42OC0uNzEtLjY3eiIvPjwvc3ZnPg==&logoColor=white)](https://www.popeyes.com.br)
+[![Mottu](https://img.shields.io/badge/Mottu-FF6600?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggNHoiLz48L3N2Zz4=&logoColor=white)](https://www.mottu.com.br)
+[![Combate à Fraude](https://img.shields.io/badge/Caf_(Combate_à_Fraude)-1A1A2E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxQzUuOTMgMSAxIDUuOTMgMSAxMnM0LjkzIDExIDExIDExIDExLTQuOTMgMTEtMTFTMTguMDcgMSAxMiAxem0wIDIwYy00Ljk3IDAtOS00LjAzLTktOXM0LjAzLTkgOS05IDkgNC4wMyA5IDktNC4wMyA5LTkgOXptMC0xNmMtMy44NyAwLTcgMy4xMy03IDdzMy4xMyA3IDcgNyA3LTMuMTMgNy03LTMuMTMtNy03LTd6bTAgMTJjLTIuNzYgMC01LTIuMjQtNS01czIuMjQtNSA1LTUgNSAyLjI0IDUgNS0yLjI0IDUtNSA1eiIvPjwvc3ZnPg==&logoColor=white)](https://www.caf.io)
+[![MeuCashCard](https://img.shields.io/badge/MeuCashCard-6C3CE1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA0SDRjLTEuMTEgMC0xLjk5Ljg5LTEuOTkgMkwyIDE4YzAgMS4xMS44OSAyIDIgMmgxNmMxLjExIDAgMi0uODkgMi0yVjZjMC0xLjExLS44OS0yLTItMnptMCAxNEg0di02aDE2djZ6bTAtMTBINFY2aDE2djJ6Ii8+PC9zdmc+&logoColor=white)](https://www.meucashcard.com.br)
+[![PoloCred](https://img.shields.io/badge/PoloCred-1A73E8?style=for-the-badge&logoColor=white)](https://www.polocred.com.br)
+[![DippingCode](https://img.shields.io/badge/DippingCode-2D2D2D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik05LjQgMTYuNkw0LjggMTJsNC42LTQuNkw4IDZsLTYgNiA2IDYgMS40LTEuNHptNS4yIDBMMTkuMiAxMmwtNC42LTQuNkwxNiA2bDYgNi02IDYtMS40LTEuNHoiLz48L3N2Zz4=&logoColor=white)](https://www.dippingcode.com)
 
 </div>
 
