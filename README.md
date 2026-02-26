@@ -125,7 +125,11 @@ const currentFocus = {
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=jhenriquedev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=1a73e8&text_color=c9d1d9&ring_color=1a73e8" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=jhenriquedev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1A73E8&fire=1A73E8&currStreakLabel=1A73E8" />
+<img height="170" src="https://streak-stats.demolab.com?user=jhenriquedev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1A73E8&fire=1A73E8&currStreakLabel=1A73E8" />
+
+<br/><br/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhenriquedev&theme=github_dark" />
 
 </div>
 
